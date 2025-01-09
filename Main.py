@@ -10,7 +10,7 @@ from LAMBORGHINI import LAM
 #d.h.W: Should not exceed 560.
 
 
-Iterations = 1
+Iterations = 50
 d = 64
 h = 3
 W = 2
